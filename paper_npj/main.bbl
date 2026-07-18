@@ -1,0 +1,186 @@
+\begin{thebibliography}{10}
+\urlstyle{rm}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname doiprefix\endcsname\relax\def\doiprefix{DOI: }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{riemann1859}
+\bibinfo{author}{Riemann, B.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Ueber die anzahl der primzahlen
+  unter einer gegebenen gr\"osse}}.
+\newblock {\emph{\JournalTitle{Monatsberichte der Berliner Akademie}}}
+  \bibinfo{pages}{671--680} (\bibinfo{year}{1859}).
+
+\bibitem{titchmarsh1986}
+\bibinfo{author}{Titchmarsh, E.~C.} \& \bibinfo{author}{Heath-Brown, D.~R.}
+\newblock \emph{\bibinfo{title}{The Theory of the Riemann Zeta-Function}}
+  (\bibinfo{publisher}{Oxford University Press}, \bibinfo{year}{1986}),
+  \bibinfo{edition}{2nd} edn.
+
+\bibitem{sarnak2000}
+\bibinfo{author}{Sarnak, P.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Problems of the millennium: The
+  riemann hypothesis}}.
+\newblock {\emph{\JournalTitle{Clay Mathematics Institute}}}
+  \bibinfo{pages}{1--10} (\bibinfo{year}{2000}).
+
+\bibitem{schumayer2011}
+\bibinfo{author}{Schumayer, D.} \& \bibinfo{author}{Hutchinson, D. A.~W.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Physics of the riemann
+  hypothesis}}.
+\newblock {\emph{\JournalTitle{Reviews of Modern Physics}}}
+  \textbf{\bibinfo{volume}{83}}, \bibinfo{pages}{307} (\bibinfo{year}{2011}).
+
+\bibitem{berry1999}
+\bibinfo{author}{Berry, M.~V.} \& \bibinfo{author}{Keating, J.~P.}
+\newblock \bibinfo{title}{$h=xp$ and the riemann zeros}.
+\newblock In \emph{\bibinfo{booktitle}{Supersymmetry and Trace Formulae: Chaos
+  and Oscillators}}, \bibinfo{pages}{355--367} (\bibinfo{publisher}{Springer},
+  \bibinfo{year}{1999}).
+
+\bibitem{bender2017}
+\bibinfo{author}{Bender, C.~M.}, \bibinfo{author}{Brody, D.~C.} \&
+  \bibinfo{author}{M\"uller, M.~P.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Hamiltonian for the zeros of the
+  riemann zeta function}}.
+\newblock {\emph{\JournalTitle{Physical Review Letters}}}
+  \textbf{\bibinfo{volume}{118}}, \bibinfo{pages}{130201}
+  (\bibinfo{year}{2017}).
+
+\bibitem{bishop2019}
+\bibinfo{author}{Bishop, M.}, \bibinfo{author}{Aiken, E.} \&
+  \bibinfo{author}{Singleton, D.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Modified commutation relationships
+  from the {Berry--Keating} program}}.
+\newblock {\emph{\JournalTitle{Physical Review D}}}
+  \textbf{\bibinfo{volume}{99}}, \bibinfo{pages}{026012},
+  \doiprefix\url{10.1103/PhysRevD.99.026012} (\bibinfo{year}{2019}).
+
+\bibitem{connes1999}
+\bibinfo{author}{Connes, A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Trace formula in noncommutative
+  geometry and the zeros of the riemann zeta function}}.
+\newblock {\emph{\JournalTitle{Selecta Mathematica}}}
+  \textbf{\bibinfo{volume}{5}}, \bibinfo{pages}{29--106}
+  (\bibinfo{year}{1999}).
+
+\bibitem{sierra2008}
+\bibinfo{author}{Sierra, G.} \& \bibinfo{author}{Townsend, P.~K.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Landau levels and riemann zeros}}.
+\newblock {\emph{\JournalTitle{Physical Review Letters}}}
+  \textbf{\bibinfo{volume}{101}}, \bibinfo{pages}{110201}
+  (\bibinfo{year}{2008}).
+
+\bibitem{montgomery1973}
+\bibinfo{author}{Montgomery, H.~L.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The pair correlation of zeros of
+  the zeta function}}.
+\newblock {\emph{\JournalTitle{Proceedings of Symposia in Pure Mathematics}}}
+  \textbf{\bibinfo{volume}{24}}, \bibinfo{pages}{181--193}
+  (\bibinfo{year}{1973}).
+
+\bibitem{dyson1962}
+\bibinfo{author}{Dyson, F.~J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Statistical theory of the energy
+  levels of complex systems. i}}.
+\newblock {\emph{\JournalTitle{Journal of Mathematical Physics}}}
+  \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{140--156}
+  (\bibinfo{year}{1962}).
+
+\bibitem{odlyzko1987}
+\bibinfo{author}{Odlyzko, A.~M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{On the distribution of spacings
+  between zeros of the zeta function}}.
+\newblock {\emph{\JournalTitle{Mathematics of Computation}}}
+  \textbf{\bibinfo{volume}{48}}, \bibinfo{pages}{273--308}
+  (\bibinfo{year}{1987}).
+
+\bibitem{bohigas1984}
+\bibinfo{author}{Bohigas, O.}, \bibinfo{author}{Giannoni, M.-J.} \&
+  \bibinfo{author}{Schmit, C.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Characterization of chaotic quantum
+  spectra and universality of level fluctuation laws}}.
+\newblock {\emph{\JournalTitle{Physical Review Letters}}}
+  \textbf{\bibinfo{volume}{52}}, \bibinfo{pages}{1--4} (\bibinfo{year}{1984}).
+
+\bibitem{gutzwiller1990}
+\bibinfo{author}{Gutzwiller, M.~C.}
+\newblock \emph{\bibinfo{title}{Chaos in Classical and Quantum Mechanics}}
+  (\bibinfo{publisher}{Springer}, \bibinfo{year}{1990}).
+
+\bibitem{weyl1911}
+\bibinfo{author}{Weyl, H.}
+\newblock \bibinfo{journal}{\bibinfo{title}{\"uber die asymptotische verteilung
+  der eigenwerte}}.
+\newblock {\emph{\JournalTitle{Nachrichten von der Gesellschaft der
+  Wissenschaften zu G\"ottingen}}} \bibinfo{pages}{110--117}
+  (\bibinfo{year}{1911}).
+
+\bibitem{hadamard1896}
+\bibinfo{author}{Hadamard, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Sur la distribution des z\'eros de
+  la fonction $\zeta(s)$ et ses cons\'equences arithm\'etiques}}.
+\newblock {\emph{\JournalTitle{Bulletin de la Soci\'et\'e Math\'ematique de
+  France}}} \textbf{\bibinfo{volume}{24}}, \bibinfo{pages}{199--220}
+  (\bibinfo{year}{1896}).
+
+\bibitem{keating2019}
+\bibinfo{author}{Keating, J.~P.} \& \bibinfo{author}{Smith, D.~J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Twin prime correlations from the
+  pair correlation of {Riemann} zeros}}.
+\newblock {\emph{\JournalTitle{Journal of Physics A: Mathematical and
+  Theoretical}}} \textbf{\bibinfo{volume}{52}}, \bibinfo{pages}{365201},
+  \doiprefix\url{10.1088/1751-8121/ab3521} (\bibinfo{year}{2019}).
+
+\bibitem{wang2026}
+\bibinfo{author}{Wang, L.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The emergence of prime distribution
+  from low-dimensional deterministic chaos}}.
+\newblock {\emph{\JournalTitle{Research in Mathematics}}}
+  \textbf{\bibinfo{volume}{13}}, \doiprefix\url{10.1080/27684830.2026.2684334}
+  (\bibinfo{year}{2026}).
+
+\bibitem{henon1969}
+\bibinfo{author}{H\'enon, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Numerical study of quadratic
+  area-preserving mappings}}.
+\newblock {\emph{\JournalTitle{Quarterly of Applied Mathematics}}}
+  \textbf{\bibinfo{volume}{27}}, \bibinfo{pages}{291--312}
+  (\bibinfo{year}{1969}).
+
+\bibitem{chirikov1979}
+\bibinfo{author}{Chirikov, B.~V.}
+\newblock \bibinfo{journal}{\bibinfo{title}{A universal instability of
+  many-dimensional oscillator systems}}.
+\newblock {\emph{\JournalTitle{Physics Reports}}}
+  \textbf{\bibinfo{volume}{52}}, \bibinfo{pages}{263--379}
+  (\bibinfo{year}{1979}).
+
+\bibitem{guo2020}
+\bibinfo{author}{Guo, C.}, \bibinfo{author}{Huang, Y.-F.}, \bibinfo{author}{Li,
+  C.-F.} \& \bibinfo{author}{Guo, G.-C.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Identifying the riemann zeros by
+  periodically driving a single qubit}}.
+\newblock {\emph{\JournalTitle{Physical Review A}}}
+  \textbf{\bibinfo{volume}{101}}, \bibinfo{pages}{062310}
+  (\bibinfo{year}{2020}).
+
+\bibitem{wei2025}
+\bibinfo{author}{Wei, S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The riemann hypothesis emerges in
+  dynamical quantum phase transitions}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2511.11199}}}
+  (\bibinfo{year}{2025}).
+
+\bibitem{wu2021}
+\bibinfo{author}{Wu, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Strong quantum computational
+  advantage using a superconducting quantum processor}}.
+\newblock {\emph{\JournalTitle{Physical Review Letters}}}
+  \textbf{\bibinfo{volume}{127}}, \bibinfo{pages}{180501}
+  (\bibinfo{year}{2021}).
+
+\end{thebibliography}
